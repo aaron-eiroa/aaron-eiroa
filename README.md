@@ -36,12 +36,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aaron-eiroa/aaron-eiroa/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/aaron-eiroa/count.svg?"  />
 </div>
